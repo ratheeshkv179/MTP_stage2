@@ -1,0 +1,26 @@
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=quiz Post_Data_Size:340 SUCCESS Start_Time:GMT+05:30 12:08:34.2 End_time:GMT+05:30 12:08:34.3 Response_Time:91 Received-Content-Length:786 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-50dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=quiz-get Post_Data_Size:327 SUCCESS Start_Time:GMT+05:30 12:08:37.4 End_time:GMT+05:30 12:08:37.6 Response_Time:178 Received-Content-Length:832 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-50dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=partialsubmission Post_Data_Size:593 SUCCESS Start_Time:GMT+05:30 12:11:7.4 End_time:GMT+05:30 12:11:7.6 Response_Time:232 Received-Content-Length:957 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-59dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=add-log Post_Data_Size:480 SUCCESS Start_Time:GMT+05:30 12:12:49.4 End_time:GMT+05:30 12:12:49.5 Response_Time:146 Received-Content-Length:871 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-53dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=submit Post_Data_Size:586 SUCCESS Start_Time:GMT+05:30 12:12:52.4 End_time:GMT+05:30 12:12:52.5 Response_Time:147 Received-Content-Length:929 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-53dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=ldap-auth Post_Data_Size:341 SUCCESS Start_Time:GMT+05:30 12:13:29.8 End_time:GMT+05:30 12:13:29.8 Response_Time:54 Received-Content-Length:796 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-53dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=get-submission Post_Data_Size:314 SUCCESS Start_Time:GMT+05:30 12:13:33.0 End_time:GMT+05:30 12:13:33.0 Response_Time:73 Received-Content-Length:903 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-53dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+
+POST http://10.129.28.176:8080/TestServelet/testservelet?request=get-summary Post_Data_Size:357 SUCCESS Start_Time:GMT+05:30 12:13:45.0 End_time:GMT+05:30 12:13:45.3 Response_Time:310 Received-Content-Length:909 IP:10.196.4.244  MY_PORT:8080 MAC:40:88:05:6A:0E:01 RSSI:-53dBm BSSID:18:64:72:6a:f3:90 SSID:IITB-Wireless LINK_SPEED:65Mbps 
+
+EOF
